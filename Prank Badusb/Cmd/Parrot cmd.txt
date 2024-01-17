@@ -1,0 +1,7 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd.exe /k curl parrot.live
+ENTER
+DELAY 1000
+F11

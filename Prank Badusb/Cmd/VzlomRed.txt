@@ -1,0 +1,7 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd.exe /k color 4 & dir/s
+ENTER
+DELAY 1000
+F11

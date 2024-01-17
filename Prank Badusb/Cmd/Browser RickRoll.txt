@@ -1,0 +1,9 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd.exe /k start chrome https://youtu.be/xvFZjo5PgG0?si=eYRx4XlkeWjHeGD_
+ENTER
+DELAY 1000
+F11
+DELAY 2000
+ENTER
